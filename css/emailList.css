@@ -1,0 +1,61 @@
+.el_emailPreview{
+	margin:20px;
+}
+
+.afc_form_container{
+	padding: 10px 10px 10px 10px
+}
+
+.afc_headline{
+	font-size:36px;
+	text-align:center;
+}
+
+.afc_message{
+}
+
+.afc_image{
+	margin:0 auto;
+}
+
+.afc_image img{
+	display: inline-block;
+}
+
+.afc_button{
+	text-align: center;
+}
+
+.afc_button .btn {
+  background: #8a8a8a;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.afc_name{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+.afc_email{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+#afc_name_field{
+	margin-bottom:10px;
+	
+}
+
+#afc_email_field{
+	
+}
