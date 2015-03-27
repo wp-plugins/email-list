@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Email List
+Plugin Name: Email Marketing List
 Description: An easy way to place a email list on your Wordpress site.
 Version: 1.0
 Author: Jeff Bullins
