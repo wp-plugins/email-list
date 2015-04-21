@@ -14,7 +14,9 @@ An easy way to place a email marketing list with content on your Wordpress site.
 
 An easy way to place a email marketing list with content on your Wordpress site.
 
-* [Upgrade to Email List Pro](http://www.thinklandingpages.com/email_list_pro/)
+###Quick Start Guide
+
+* [email list quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/email_list/)
 
 ###What you get when you use the Email Marketing List email list
 
@@ -58,6 +60,9 @@ You can put forms on you website, including your homepage, to subscribe users to
 
 = Can I put email marketing list on any post or page? =
 You can put forms on you website to subscribe users to your email marketing list.
+
+= Can I change the smtp through the email list plugin? =
+You can't change the smtp through the email list plugin. The plugin uses same smtp as wp_mail.
 
 
 == Screenshots ==
